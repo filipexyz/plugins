@@ -1,0 +1,16 @@
+{
+  "name": "filipelabs",
+  "owner": {
+    "name": "Luis Filipe"
+  },
+  "metadata": {
+    "description": "Claude Code plugins by Luis Filipe"
+  },
+  "plugins": [
+    {
+      "name": "flowsfarm",
+      "source": "./plugins/flowsfarm",
+      "description": "Manage n8n workflows with FlowsFarm CLI. Sync, create, edit, and version control workflows locally."
+    }
+  ]
+}
