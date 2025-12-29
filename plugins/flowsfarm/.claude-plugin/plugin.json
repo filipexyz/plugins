@@ -6,9 +6,6 @@
     "name": "Luis Filipe"
   },
   "homepage": "https://github.com/filipexyz/flowsfarm",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/filipexyz/flowsfarm"
-  },
+  "repository": "https://github.com/filipexyz/flowsfarm",
   "license": "MIT"
 }
