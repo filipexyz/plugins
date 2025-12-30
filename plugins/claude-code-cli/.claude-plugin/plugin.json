@@ -1,0 +1,11 @@
+{
+  "name": "claude-code-cli",
+  "description": "Guide for building and running AI agents using Claude Code CLI. Patterns for autonomous agents, multi-agent orchestration, and CI/CD integration.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Luis Filipe"
+  },
+  "homepage": "https://github.com/filipexyz/plugins",
+  "repository": "https://github.com/filipexyz/plugins",
+  "license": "MIT"
+}

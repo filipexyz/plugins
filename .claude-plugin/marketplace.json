@@ -11,6 +11,11 @@
       "name": "flowsfarm",
       "source": "./plugins/flowsfarm",
       "description": "Manage n8n workflows with FlowsFarm CLI. Sync, create, edit, and version control workflows locally."
+    },
+    {
+      "name": "claude-code-cli",
+      "source": "./plugins/claude-code-cli",
+      "description": "Guide for building AI agents using Claude Code CLI. Patterns for autonomous agents, multi-agent orchestration, and CI/CD integration."
     }
   ]
 }
