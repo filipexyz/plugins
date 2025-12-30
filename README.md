@@ -39,21 +39,16 @@ Features:
 
 ### Claude Code CLI
 
-Guide for building and running AI agents using Claude Code CLI. Language-agnostic patterns for agent orchestration.
+Build AI agents using Claude Code CLI. Headless mode, JSON parsing, multi-agent orchestration.
 
 ```
 /plugin install claude-code-cli@filipelabs
 ```
 
-Features:
-- Authentication with API key or OAuth token (`claude setup-token`)
-- Running Claude as a headless agent (`-p` mode)
-- Structured JSON output with schema validation
-- Multi-agent orchestration patterns (sequential, parallel)
-- Tool restrictions and permission modes
-- CI/CD integration (GitHub Actions, pre-commit hooks)
-- Session management for persistent agents
-- MCP server configuration
+Includes reference docs for:
+- Response parsing (JSON, streaming, subagents)
+- Multi-agent orchestration (Python, Node.js, Bash)
+- Configuration (tools, CI/CD, MCP servers)
 
 ## License
 
