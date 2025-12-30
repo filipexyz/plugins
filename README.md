@@ -14,6 +14,7 @@ Claude Code plugins by Luis Filipe.
 |--------|-------------|
 | `flowsfarm` | Manage n8n workflows with FlowsFarm CLI |
 | `claude-code-cli` | Guide for building AI agents using Claude Code CLI |
+| `claude-code-hooks` | Implement Claude Code hooks for agent lifecycle control |
 
 ### Install a Plugin
 
@@ -49,6 +50,20 @@ Includes reference docs for:
 - Response parsing (JSON, streaming, subagents)
 - Multi-agent orchestration (Python, Node.js, Bash)
 - Configuration (tools, CI/CD, MCP servers)
+
+### Claude Code Hooks
+
+Implement lifecycle hooks for deterministic control over agent behavior.
+
+```
+/plugin install claude-code-hooks@filipelabs
+```
+
+Features:
+- Hook events (PreToolUse, PostToolUse, Stop, SessionStart, etc.)
+- Decision control (allow, deny, block, continue)
+- Auto-formatting, linting, notifications
+- File protection and command validation
 
 ## License
 

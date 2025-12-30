@@ -1,0 +1,11 @@
+{
+  "name": "claude-code-hooks",
+  "description": "Guide for implementing Claude Code hooks. Lifecycle events, decision control, auto-formatting, notifications, logging, and permissions.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Luis Filipe"
+  },
+  "homepage": "https://github.com/filipexyz/plugins",
+  "repository": "https://github.com/filipexyz/plugins",
+  "license": "MIT"
+}
