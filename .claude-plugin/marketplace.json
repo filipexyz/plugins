@@ -16,6 +16,11 @@
       "name": "claude-code-cli",
       "source": "./plugins/claude-code-cli",
       "description": "Guide for building AI agents using Claude Code CLI. Patterns for autonomous agents, multi-agent orchestration, and CI/CD integration."
+    },
+    {
+      "name": "claude-code-hooks",
+      "source": "./plugins/claude-code-hooks",
+      "description": "Implement Claude Code hooks for lifecycle control. Auto-formatting, notifications, logging, permissions, and decision control."
     }
   ]
 }
