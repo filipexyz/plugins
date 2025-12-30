@@ -21,6 +21,11 @@
       "name": "claude-code-hooks",
       "source": "./plugins/claude-code-hooks",
       "description": "Implement Claude Code hooks for lifecycle control. Auto-formatting, notifications, logging, permissions, and decision control."
+    },
+    {
+      "name": "ratatui",
+      "source": "./plugins/ratatui",
+      "description": "Build terminal UIs in Rust with Ratatui. Widgets, layouts, async patterns, and best practices."
     }
   ]
 }

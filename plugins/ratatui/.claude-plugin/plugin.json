@@ -1,0 +1,11 @@
+{
+  "name": "ratatui",
+  "description": "Build terminal UIs in Rust with Ratatui. Widgets, layouts, async patterns, and best practices.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Luis Filipe"
+  },
+  "homepage": "https://github.com/filipexyz/plugins",
+  "repository": "https://github.com/filipexyz/plugins",
+  "license": "MIT"
+}

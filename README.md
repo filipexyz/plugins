@@ -15,6 +15,7 @@ Claude Code plugins by Luis Filipe.
 | `flowsfarm` | Manage n8n workflows with FlowsFarm CLI |
 | `claude-code-cli` | Guide for building AI agents using Claude Code CLI |
 | `claude-code-hooks` | Implement Claude Code hooks for agent lifecycle control |
+| `ratatui` | Build terminal UIs in Rust with Ratatui |
 
 ### Install a Plugin
 
@@ -64,6 +65,20 @@ Features:
 - Decision control (allow, deny, block, continue)
 - Auto-formatting, linting, notifications
 - File protection and command validation
+
+### Ratatui
+
+Build terminal UIs in Rust with immediate-mode rendering.
+
+```
+/plugin install ratatui@filipelabs
+```
+
+Features:
+- Core architecture and event loop patterns
+- Widgets (List, Table, Paragraph, Gauge, Tabs)
+- Async integration with Tokio
+- Keyboard navigation and accessibility
 
 ## License
 
