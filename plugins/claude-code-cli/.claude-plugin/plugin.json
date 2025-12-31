@@ -1,7 +1,7 @@
 {
   "name": "claude-code-cli",
   "description": "Guide for building and running AI agents using Claude Code CLI. Patterns for autonomous agents, multi-agent orchestration, and CI/CD integration.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": {
     "name": "Luis Filipe"
   },
